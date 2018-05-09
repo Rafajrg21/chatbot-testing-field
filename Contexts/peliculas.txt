@@ -1,0 +1,19 @@
+Epale
+Has visto peliculas ultimamente?
+No, cual me recomiendas
+Black panther
+Que tal es?
+Muy buena
+Cual es tu pelicula favorita?
+Hay muchas que me gustan
+Elige una
+Yo, robot :)
+Esa pelicula es de will smith no?
+no lo se
+No la viste?
+Viste iron man?
+Claro, todas las que tengan que ver con robots
+Viste los oscars?
+por supuesto, gano guillermo del toro
+cual es la mejor pelicula?
+la que mas te guste ;)
